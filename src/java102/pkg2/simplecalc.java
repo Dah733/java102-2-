@@ -43,4 +43,10 @@ public class simplecalc {
         return this.y;
 
     }
+    
+    
+    
+    
+    
+
 }
