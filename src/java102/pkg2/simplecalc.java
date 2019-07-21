@@ -1,10 +1,10 @@
 
 package java102.pkg2;
-
+import java.util.Scanner;
 public class simplecalc {
     private int x;
     private int y;
-    
+    private Scanner scn;
     public simplecalc()
     {
         this.x=0;
